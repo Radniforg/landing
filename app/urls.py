@@ -1,6 +1,6 @@
 from django.urls import path
 
-from app.views import landing, stats, index
+from app.views import landing, stats, index, test
 
 
 urlpatterns = [
